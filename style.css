@@ -1,3 +1,67 @@
 h1{
-    font-family: 'bangers';
+    font-family:cursive;
+    color:white;
+    
+    
+    
+}
+.coffee-beans{
+width: 300px;
+}
+h1{
+    text-align: center;
+}
+.header{
+    background-image: url(img/coffee5.jpg);
+    
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    opacity: 90%;
+}
+
+.first-p, h2, footer{
+    text-align: center;
+}
+ol, ul{
+    display:table;
+     margin:0 auto;
+    }
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+
+}
+.latte{
+width: 300px;
+height: 300px;
+border-radius: 15px;
+display: inline-block;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+}
+.latte:hover{
+    opacity: 0.3;
+    
+}
+.popular-coffee{
+    text-align: center;
+
+
+    
+}
+@media (max-width: 600px){
+                                     
+}
+.arrow-up{
+    width: 50px;
+    padding-bottom: 20px;
 }
