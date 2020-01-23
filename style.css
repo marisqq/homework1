@@ -26,8 +26,8 @@ h1{
     text-align: center;
 }
 ol, ul{
-    display:table;
-     margin:0 auto;
+    display: table;
+     margin: 0 auto;
     }
     li:hover{
         color: grey;
