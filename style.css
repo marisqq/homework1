@@ -3,11 +3,9 @@ body{
     margin: 0;
 }
 h1{
-    font-family:cursive;
+    font-family: 'Patrick Hand', cursive;
     color: #000000;
-    
-    
-    
+
 }
 .coffee-beans{
 width: 300px;
