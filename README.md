@@ -1,2 +1,2 @@
-# hwork1
-Homework 1
+# First Riga coding scool homework
+Live version https://marisqq.github.io/hwork1/
